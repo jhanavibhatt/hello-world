@@ -1,1 +1,1 @@
-# this is my local reposteries.
+# this is my local repo.
