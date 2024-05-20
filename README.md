@@ -7,3 +7,5 @@ this focuses mainly on git and using GitHub as its remote
 This repository is built step by step in the tutorial.
 
 it now includes steps for github
+
+this is how git and github work
